@@ -23,7 +23,9 @@ Hi there 👋 I am Niaina
   />
 </a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/niainamahefa/niainamahefa/blob/master/devcard.svg" width="400" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/></a>
+<a href="https://app.daily.dev/niaina">
+  <img align="right" src="devcard.svg" width="400" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/>
+</a>
 
 <h1>📱 Contact</h1>
 
