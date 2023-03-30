@@ -16,6 +16,13 @@ Hi there 👋 I am Niaina
   />
 </a>
 
+<a href="https://github.com/niainamahefa">
+  <img 
+    src="https://img.shields.io/github/followers/niainamahefa.svg?style=social&label=Follow&maxAge=2592000" 
+    alt="Profile visitor" 
+  />
+</a>
+
 <a href="https://app.daily.dev/niaina"><img align="right" src="https://api.daily.dev/devcards/2ff3ac13b0e849fd9d031fbd88af9d7a.png?r=peh" width="400" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/></a>
 
 <h1>📱 Contact</h1>
