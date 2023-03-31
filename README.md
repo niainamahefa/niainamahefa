@@ -1,5 +1,9 @@
 Hi there 👋 I am Niaina
 
+<a href="https://app.daily.dev/niaina">
+  <img align="right" src="devcard.svg" width="270" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/>
+</a>
+
 <p> 
   <samp>
     <br>
@@ -21,10 +25,6 @@ Hi there 👋 I am Niaina
     src="https://img.shields.io/github/followers/niainamahefa.svg?style=social&label=Follow&maxAge=2592000" 
     alt="Profile visitor" 
   />
-</a>
-
-<a href="https://app.daily.dev/niaina">
-  <img align="right" src="devcard.svg" width="400" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/>
 </a>
 
 <h1>📱 Contact</h1>
