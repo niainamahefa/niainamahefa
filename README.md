@@ -1,7 +1,7 @@
 # Hi there 👋 I am Niaina
 
 <a href="https://app.daily.dev/niaina">
-  <img align="right" src="devcard.svg" width="270" alt="Lovaniaina ANDRIAMAHEFA's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/v2/4b2jpNR13eRhoNTrKI262.png?type=default&r=0az" width="356" alt="Niaina's Dev Card"/>
 </a>
 
 <p> 
